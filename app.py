@@ -1,0 +1,11 @@
+todo_list = []
+
+while True:
+    print("To-do List Application Menu:")
+    print("1. View Tasks")
+    print("2. Add Task")
+    print("3. Remove Task")
+    print("4. Exit")
+
+    choice = input("Choose an option (1-4): ")
+    
