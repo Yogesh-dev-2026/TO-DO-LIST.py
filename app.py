@@ -43,4 +43,9 @@ while True:
 
             except ValueError:
                 print("Please enter a valid number.")
-                
+
+    elif choice =="4":
+        print("Exit the application. Goodbye!")
+        break
+    else:
+        print("Invalid choice. Please choose a valid choice(1, 2, 3 )")          
